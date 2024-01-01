@@ -1,2 +1,3 @@
 Hey hi 
 Am learning devops,scripting, and git.
+learning shell scripting too
