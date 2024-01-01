@@ -1,2 +1,2 @@
 Hey hi 
-Am learning devops,scripting, and git
+Am learning devops,scripting, and git.
